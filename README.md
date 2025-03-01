@@ -8,6 +8,7 @@ A repository of my solutions to LeetCode problems.
 | [0001-two-sum](https://github.com/divit-008/Leet-Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/divit-008/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/divit-008/Leet-Code/tree/master/0217-contains-duplicate) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divit-008/Leet-Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A repository of my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divit-008/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divit-008/Leet-Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+## Greedy
+|  |
+| ------- |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divit-008/Leet-Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
