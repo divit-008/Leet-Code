@@ -9,6 +9,7 @@ A repository of my solutions to LeetCode problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/divit-008/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/divit-008/Leet-Code/tree/master/0217-contains-duplicate) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divit-008/Leet-Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/divit-008/Leet-Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A repository of my solutions to LeetCode problems.
 | ------- |
 | [0217-contains-duplicate](https://github.com/divit-008/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/divit-008/Leet-Code/tree/master/0242-valid-anagram) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/divit-008/Leet-Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## String
 |  |
 | ------- |
@@ -40,4 +42,9 @@ A repository of my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divit-008/Leet-Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/divit-008/Leet-Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/divit-008/Leet-Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
