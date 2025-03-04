@@ -25,6 +25,7 @@ A repository of my solutions to LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/divit-008/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/divit-008/Leet-Code/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
@@ -47,4 +48,8 @@ A repository of my solutions to LeetCode problems.
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/divit-008/Leet-Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/divit-008/Leet-Code/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
