@@ -8,6 +8,7 @@ A repository of my solutions to LeetCode problems.
 | [0001-two-sum](https://github.com/divit-008/Leet-Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/divit-008/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/divit-008/Leet-Code/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/divit-008/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divit-008/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/divit-008/Leet-Code/tree/master/0217-contains-duplicate) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divit-008/Leet-Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -56,6 +57,19 @@ A repository of my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/divit-008/Leet-Code/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/divit-008/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/divit-008/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divit-008/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/divit-008/Leet-Code/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/divit-008/Leet-Code/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/divit-008/Leet-Code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
