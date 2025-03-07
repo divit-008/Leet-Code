@@ -49,6 +49,7 @@ A repository of my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divit-008/Leet-Code/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [2610-closest-prime-numbers-in-range](https://github.com/divit-008/Leet-Code/tree/master/2610-closest-prime-numbers-in-range) |
 ## Greedy
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A repository of my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/divit-008/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/divit-008/Leet-Code/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
