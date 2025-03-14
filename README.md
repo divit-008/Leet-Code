@@ -10,6 +10,7 @@ A repository of my solutions to LeetCode problems.
 | [0011-container-with-most-water](https://github.com/divit-008/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/divit-008/Leet-Code/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/divit-008/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0128-longest-consecutive-sequence](https://github.com/divit-008/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divit-008/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/divit-008/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/divit-008/Leet-Code/tree/master/0347-top-k-frequent-elements) |
@@ -19,6 +20,7 @@ A repository of my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divit-008/Leet-Code/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/divit-008/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/divit-008/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/divit-008/Leet-Code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/divit-008/Leet-Code/tree/master/0347-top-k-frequent-elements) |
@@ -97,4 +99,8 @@ A repository of my solutions to LeetCode problems.
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/divit-008/Leet-Code/tree/master/2610-closest-prime-numbers-in-range) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/divit-008/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
