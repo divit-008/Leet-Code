@@ -81,6 +81,7 @@ A repository of my solutions to LeetCode problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/divit-008/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/divit-008/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/divit-008/Leet-Code/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A repository of my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/divit-008/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/divit-008/Leet-Code/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
